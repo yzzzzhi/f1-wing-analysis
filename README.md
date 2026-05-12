@@ -11,6 +11,7 @@ A project exploring Formula 1 rear wing aerodynamics and performance trends usin
 - Python
 - Pandas
 - Matplotlib
+- Aerosandbox
 
 ## Engineering Conclusions
 
